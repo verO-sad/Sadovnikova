@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>Задание 1</title>
+</head>
+<body>
+<table border="2"
+bordercolor="black"
+cellpadding="10"
+cellspacing="3"
+bgcolor="green"
+align="right">
+<tr>
+<td>Я</td>
+<td>Я</td>
+</tr>
+<tr>
+<td>люблю</td>
+<td>люблю</td>
+</tr>
+<tr>
+<td>Виолетту</td>
+<td>Нику</td>
+</tr>
+</table>
+</body>
+</html>
